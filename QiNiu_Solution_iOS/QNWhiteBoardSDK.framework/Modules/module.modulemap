@@ -1,0 +1,6 @@
+framework module QNWhiteBoardSDK {
+  umbrella header "QNWhiteBoardSDK.h"
+
+  export *
+  module * { export * }
+}
